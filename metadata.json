@@ -1,0 +1,5 @@
+{
+  "name": "ZelStream - Modern Movie Streaming",
+  "description": "A high-performance movie and series streaming platform inspired by Netflix and Disney+, featuring real-time search, category filtering, and integrated video playback.",
+  "requestFramePermissions": []
+}
